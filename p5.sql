@@ -1,0 +1,1 @@
+execute new_procedure(100000);
